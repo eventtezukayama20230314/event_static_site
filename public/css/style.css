@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(http://d2dcan0armyq93.cloudfront.net/photo/odai/600/57feb3b7e6db339dc22745375b696ccd_600.jpg);
     background-size: cover;
 }
 
@@ -23,7 +23,7 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(243, 11, 11);
     text-align: center;
 }
 
