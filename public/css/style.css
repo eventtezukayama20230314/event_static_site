@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://cdn-ak.f.st-hatena.com/images/fotolife/m/mostier12/20200511/20200511135836.jpg);
     background-size: cover;
 }
 
@@ -23,12 +23,12 @@
     font-size: 4em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color:paleturquoise;
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #354a88;
 }
 
 .content-section .container { 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: rgb(181, 240, 19);
 }
 
 .my-footer .container { 
