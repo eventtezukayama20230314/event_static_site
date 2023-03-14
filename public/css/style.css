@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://www.sponichi.co.jp/baseball/news/2021/06/01/jpeg/20210601s00001173708000p_view.jpg);
     background-size: cover;
 }
 
@@ -20,10 +20,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 50em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(29, 37, 184);
     text-align: center;
 }
 
