@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/14/Meisho_Doto_20020113.jpg);
     background-size: cover;
 }
 
@@ -20,10 +20,10 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 100em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: blue;
     text-align: center;
 }
 
@@ -37,7 +37,7 @@
 
 .my-footer{
     height: 20vh;
-    background-color: white;
+    background-color: red;
 }
 
 .my-footer .container { 
