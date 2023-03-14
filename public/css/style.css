@@ -5,7 +5,7 @@
 .top-section { 
     height: 100vh;
     width: 100vw;
-    background-image: url(../images/top.png);
+    background-image: url(https://makeshop-multi-images.akamaized.net/gmosp3340/itemimages/000000000153_xaZ3M3W.jpg);
     background-size: cover;
 }
 
@@ -20,15 +20,15 @@
 
 .top-content h1 {
     /* display: inline; */
-    font-size: 4em;
+    font-size: 10em;
     font-weight: bold;
     font-family: "游明朝体", "Yu Mincho", YuMincho, serif;
-    color: white;
+    color: rgb(255, 0, 0);
     text-align: center;
 }
 
 .content-section { 
-    background-color: #3cbf49;
+    background-color: #b8ca13;
 }
 
 .content-section .container { 
@@ -50,4 +50,11 @@
 
 .privacy-policy-link{
     color: #3cbf49;
+}
+.container h5 {
+    /* display inline; */
+    font-size: 4em;
+    font-weight: bold;
+    font-family:"comic sans"
+
 }
